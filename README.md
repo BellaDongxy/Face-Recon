@@ -10,7 +10,7 @@ Outline the methodologies and algorithms applied in this project. Key points inc
   - 2D and 3D 
 ![Image text](Image/PCA.jpg)
   - Eigenface
-![Image text](Image/PCA-Egf.jpg)
+![Image text](Image/PCA-EGF.jpg)
   - KNN classification using PCA
   
 - LDA (Linear Discriminant Analysis)
