@@ -8,7 +8,7 @@ ps. Code is all done by Jupyter notebook, and some of the code will take some ti
 Outline the methodologies and algorithms applied in this project. Key points include:
 - PCA (Principal Component Analysis)
   - 2D and 3D Variants
-![Image text](https://raw.github.com/yourName/repositpry/master/yourprojectName/img-folder/test.jpg)
+![Image text](Image/PCA.jpg)
   - Explained variance for different principal components
 - LDA (Linear Discriminant Analysis)
   - Performance with different numbers of components
