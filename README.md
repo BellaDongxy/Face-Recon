@@ -10,7 +10,7 @@ Outline the methodologies and algorithms applied in this project. Key points inc
   - 2D and 3D 
 ![Image text](Image/PCA.jpg)
   - Eigenface
-![Image text](Image/PCA-EIGF.png)
+![Image text](Image/PCA-Egf.jpg)
   - KNN classification using PCA
   
 - LDA (Linear Discriminant Analysis)
@@ -28,11 +28,11 @@ Outline the methodologies and algorithms applied in this project. Key points inc
 - SVM (Support Vector Machines)
   - Accuracy metrics with different parameters and data dimensions
   - Visualization
-![Image text](Image/SVM.png)
+![Image text](Image/SVM.jpg)
 - CNN (Convolutional Neural Networks)
   - Training, validation, and test accuracies
   - Visualization (Accuracy & Loss)
-![Image text](Image/CNN-1.png) 
-![Image text](Image/CNN-2.png)
+![Image text](Image/CNN-2.jpg) 
+![Image text](Image/CNN-1.jpg)
 
 ---
