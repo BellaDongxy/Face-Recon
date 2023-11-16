@@ -6,7 +6,7 @@ ps. Code is all done by Jupyter notebook, and some of the code will take some ti
 
 ## Methodologies
 Outline the methodologies and algorithms applied in this project. Key points include:
-- PCA (Principal Component Analysis)
+### - PCA (Principal Component Analysis)
   - 2D and 3D 
 ![Image text](Image/PCA.jpg)
   - Eigenface 1,2,3
@@ -14,23 +14,23 @@ Outline the methodologies and algorithms applied in this project. Key points inc
 ![Image text](Image/PCA-EGF.jpg)
   - KNN classification using PCA
   
-- LDA (Linear Discriminant Analysis)
+### - LDA (Linear Discriminant Analysis)
   - LDA with 500 sample (2D & 3D)
 ![Image text](Image/LDA-500.jpg)
   - LDA with 500 sample (2D & 3D)
 ![Image text](Image/LDA-ALL.jpg)
   - Performance with 2, 3, 9 components
 
-- GMM (Gaussian Mixture Models)
+### - GMM (Gaussian Mixture Models)
   - Raw | 80 | 200
 ![Image text](Image/GMM-1.jpg)
 ![Image text](Image/GMM-2.jpg)
 
-- SVM (Support Vector Machines)
+### - SVM (Support Vector Machines)
   - Accuracy metrics with different parameters and data dimensions
   - Visualization
 ![Image text](Image/SVM.jpg)
-- CNN (Convolutional Neural Networks)
+### - CNN (Convolutional Neural Networks)
   - Training, validation, and test accuracies
   - Visualization (Accuracy & Loss)
 ![Image text](Image/CNN-2.jpg) 
