@@ -28,11 +28,11 @@ Outline the methodologies and algorithms applied in this project. Key points inc
 - SVM (Support Vector Machines)
   - Accuracy metrics with different parameters and data dimensions
   - Visualization
-![Image text](Image/SVM.jpg)
+![Image text](Image/SVM.png)
 - CNN (Convolutional Neural Networks)
   - Training, validation, and test accuracies
   - Visualization (Accuracy & Loss)
-![Image text](Image/CNN-1.jpg) 
-![Image text](Image/CNN-2.jpg)
+![Image text](Image/CNN-1.png) 
+![Image text](Image/CNN-2.png)
 
 ---
